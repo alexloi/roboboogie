@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/alexloi/roboboogie",
   "dependencies": {
-    "express": "^4.8.5"
+    "express": "^4.8.5",
+    "jade": "^1.5.0"
   }
 }
