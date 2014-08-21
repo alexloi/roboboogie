@@ -1,0 +1,19 @@
+{
+  "name": "roboboogie",
+  "version": "0.0.1",
+  "description": "Just connecting",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexloi/roboboogie.git"
+  },
+  "author": "alexloi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexloi/roboboogie/issues"
+  },
+  "homepage": "https://github.com/alexloi/roboboogie"
+}
