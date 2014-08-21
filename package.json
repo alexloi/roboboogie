@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines":{
-    "node":"0.10.x"
+  "engines": {
+    "node": "0.10.x"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/alexloi/roboboogie/issues"
   },
-  "homepage": "https://github.com/alexloi/roboboogie"
+  "homepage": "https://github.com/alexloi/roboboogie",
+  "dependencies": {
+    "express": "^4.8.5"
+  }
 }
